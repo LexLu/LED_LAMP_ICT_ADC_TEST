@@ -15,7 +15,7 @@ extern "C" {
 #include "General.h"
 
 void Init( void );
-
+void OSC_Init( void );
 
 #ifdef	__cplusplus
 }
